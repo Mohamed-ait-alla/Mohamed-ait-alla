@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"	
+</p>
+
 <h1 align="center">Hey! 👋, I'm Mohamed Ait Alla</h1>
 <h1 align="center">
 	 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+github+profile;+We+are+sorftware+engineers;" />

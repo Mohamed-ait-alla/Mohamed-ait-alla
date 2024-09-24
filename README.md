@@ -1,8 +1,10 @@
 <h1 align="center">Hey! 👋, I'm Mohamed Ait Alla</h1>
-<h4 align="center">printf("Welcome to my github profile👾");</h4>
+<h1 align="center">
+	 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+github+profile;+We+are+sorftware+engineers;" />
+</h1>
 
 <p align="center">
-	<img alt="Mr Youbella visitors" src="https://komarev.com/ghpvc/?username=Mohamed-ait-alla&color=8c36db&style=flat&label=visitors" />
+	<img alt="Mohamed-ait-alla visitors" src="https://komarev.com/ghpvc/?username=Mohamed-ait-alla&color=8c36db&style=flat&label=visitors" />
 
 ┌──┤ **WHOAMI** ├─────────▰▰▰</br>
 ├─▣ Software Engineer Student at 1337 Ben Guerir.</br>

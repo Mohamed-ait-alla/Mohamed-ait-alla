@@ -3,9 +3,6 @@
 </p>
 
 <h1 align="center">Hey! 👋, I'm Mohamed Ait Alla</h1>
-<h1 align="center">
-	 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+github+profile;+We+are+sorftware+engineers;" />
-</h1>
 
 <p align="center">
 	<img alt="Mohamed-ait-alla visitors" src="https://komarev.com/ghpvc/?username=Mohamed-ait-alla&color=8c36db&style=flat&label=visitors" />
@@ -22,7 +19,7 @@
 
 - 🌱 I’m currently learning **Programming and Programming Languages**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mr-youbella)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mohamed-ait-alla)
 
 - 💬 Ask me about **any information related to the field of programming.**
 

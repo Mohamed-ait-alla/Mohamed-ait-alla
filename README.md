@@ -47,3 +47,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-ait-alla&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohamed-ait-alla" /></p>
 
 <p align="right">&nbsp;<img src="https://github-stats-alpha.vercel.app/api?username=Mohamed-ait-alla&theme=radical" alt="Mohamed-ait-alla" /></p>
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mait-all" alt="adiri's 42 stats" width="100%" /></a>

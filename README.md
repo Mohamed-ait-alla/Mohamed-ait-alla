@@ -39,7 +39,7 @@
  	<a href="https://www.w3schools.com/css/default.asp" taget="_blank" rel="Css">  <img src="https://skillicons.dev/icons?i=css" /> </a>
   	<a href="https://www.w3schools.com/git/" taget="_blank" rel="git">  <img src="https://skillicons.dev/icons?i=git" /> </a>
      	<a href="https://github.com/" taget="_blank" rel="github">  <img src="https://skillicons.dev/icons?i=github" /> </a>   	
-   	<a href="https://www.w3schools.com/mysql/default.asp" taget="_blank" rel="mysql">  <img src="https://skillicons.dev/icons?i=mysql" /> </a> 
+   	<a href="https://www.mysql.com/" taget="_blank" rel="mysql">  <img src="https://skillicons.dev/icons?i=mysql" /> </a> 
     	<a href="https://code.visualstudio.com/" taget="_blank" rel="vscode">  <img src="https://skillicons.dev/icons?i=vscode" /> </a>
      	<a href="https://www.vim.org/" taget="_blank" rel="vim">  <img src="https://skillicons.dev/icons?i=vim" /> </a>   	  
 

@@ -48,4 +48,4 @@
 
 <p align="right">&nbsp;<img src="https://github-stats-alpha.vercel.app/api?username=Mohamed-ait-alla&theme=radical" alt="Mohamed-ait-alla" /></p>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mait-all" alt="mait-all's 42 stats" width="100%" /></a>
+<a href="https://github.com/mait-all/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mait-all" alt="mait-all's 42 stats" width="100%" /></a>

@@ -15,7 +15,7 @@
 </br>
 └───────────────────────────────▰▰▰</br>
 
-- 🔭 I’m currently working on push_swap
+- 🔭 I’m currently working on net_practice
 
 - 🌱 I’m currently learning **Programming and Programming Languages**
 
